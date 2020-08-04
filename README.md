@@ -1,7 +1,7 @@
 ![](https://youpai.roccoshi.top/img/20200804214216.png)
 
 <p align="center">
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=welcome) 🍺
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Lincest.Lincest" alt="visitor badge"/>
 </p>
 
 
