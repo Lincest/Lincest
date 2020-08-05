@@ -2,7 +2,7 @@
 
 # 🧐 Aboud me
 
-📝
+📝 [![HitCount](http://hits.dwyl.com/Lincest/Lincest.svg)](http://hits.dwyl.com/Lincest/Lincest)
  
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Lincest.Lincest" alt="visitor badge"/>
