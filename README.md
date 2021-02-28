@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Lincest.Lincest&title=hits" alt="visitor badge"/>
 <a href="mailto:imroccoshi@gmail.com"><img src="https://img.shields.io/badge/gmail-imroccoshi%40gmail.com-red"></a>
-<a href="https://roccoshi.top"><img src="https://img.shields.io/badge/blog-roccoshi-green"></a>
+<a href="https://blog.roccoshi.top"><img src="https://img.shields.io/badge/blog-roccoshi-green"></a>
 </p>
 
 <p align="center">
