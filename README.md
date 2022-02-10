@@ -1,6 +1,6 @@
 ![](https://youpai.roccoshi.top/img/20200804214216.png)
 
-# 🧐 Aboud me
+# 🧐 About me
  
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Lincest.Lincest&title=hits" alt="visitor badge"/>
