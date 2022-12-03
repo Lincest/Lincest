@@ -1,4 +1,4 @@
-![](https://youpai.roccoshi.top/img/20200804214216.png)
+<!-- ![](https://youpai.roccoshi.top/img/20200804214216.png) -->
 
 # 🧐 About me
  
