@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lincest&show_icons=true&count_private=true&show_owner=true" alt="">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Moreality" alt=""/>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Moreality&v=2" alt=""/>
 </div>
 
 <!--START_SECTION:waka-->
