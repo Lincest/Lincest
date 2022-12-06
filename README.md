@@ -13,7 +13,7 @@
    <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Moreality&v=2" alt=""/> -->
 </div>
 
-# Weekly Coding Time
+### Weekly Coding Time
 
 <!--START_SECTION:waka-->
 
