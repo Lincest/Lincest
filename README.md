@@ -18,8 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Batchfile   0 secs          ███████████████████▒░░░░░   77.82 %
-YANG        0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+Batchfile   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
