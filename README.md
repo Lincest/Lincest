@@ -8,7 +8,7 @@
 <a href="https://blog.roccoshi.top"><img src="https://img.shields.io/badge/blog-roccoshi-green"></a>
 </p>
 
-### Weekly Coding Time
+## Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%208%20mins-blue)
