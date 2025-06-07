@@ -43,19 +43,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 mins             █████████████████████████   99.85 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      21 mins             █████████████████████████   99.85 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/06/2025 01:53:12 UTC
+ Last Updated on 07/06/2025 01:52:31 UTC
 <!--END_SECTION:waka-->
 
 
