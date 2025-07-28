@@ -11,9 +11,9 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C599%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C599%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,7 +44,7 @@
 
 💬 Programming Languages: 
 Markdown                 8 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.18 % 
-Python                   8 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.31 % 
+Python                   8 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.32 % 
 Java                     2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 TypeScript               1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
@@ -62,7 +62,7 @@ Linux                    10 hrs 42 mins      ███████████�
 ```
 
 
- Last Updated on 27/07/2025 02:13:26 UTC
+ Last Updated on 28/07/2025 02:10:05 UTC
 <!--END_SECTION:waka-->
 
 
