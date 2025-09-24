@@ -11,6 +11,8 @@
 ## Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C791%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -26,7 +28,7 @@
 > 🔑 75 Private Repositories 
  > 
 
- Last Updated on 23/09/2025 01:44:09 UTC
+ Last Updated on 24/09/2025 01:44:38 UTC
 <!--END_SECTION:waka-->
 
 
