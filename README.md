@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C146%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C146%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -43,17 +43,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 6 mins              █████████████████████░░░░   82.18 % 
+YAML                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Obsidian                 5 mins              █████████████████░░░░░░░░   68.89 % 
+VS Code                  2 mins              ████████░░░░░░░░░░░░░░░░░   31.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/02/2026 02:36:06 UTC
+ Last Updated on 23/02/2026 02:37:30 UTC
 <!--END_SECTION:waka-->
 
 
