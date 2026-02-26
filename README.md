@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C148%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C152%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -43,20 +43,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 10 mins       ██████████████████████░░░   89.65 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Markdown                 5 hrs 40 mins       ████████████████████████░   94.52 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 8 mins        ██████████████████████░░░   88.30 % 
-VS Code                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Obsidian                 5 hrs 29 mins       ███████████████████████░░   91.38 % 
+VS Code                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 💻 Operating System: 
-Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/02/2026 02:35:04 UTC
+ Last Updated on 26/02/2026 02:30:38 UTC
 <!--END_SECTION:waka-->
 
 
