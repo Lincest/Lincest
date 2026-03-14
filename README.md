@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C197%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C200%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -19,7 +19,7 @@
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2026
+> 🏆 50 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,9 +31,9 @@
 
 ```text
 🌞 Morning                1145 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-🌆 Daytime                1924 commits        ████████░░░░░░░░░░░░░░░░░   31.23 % 
-🌃 Evening                2181 commits        █████████░░░░░░░░░░░░░░░░   35.40 % 
-🌙 Night                  911 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+🌆 Daytime                1925 commits        ████████░░░░░░░░░░░░░░░░░   31.24 % 
+🌃 Evening                2181 commits        █████████░░░░░░░░░░░░░░░░   35.39 % 
+🌙 Night                  911 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 ```
 
 
@@ -43,25 +43,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 44 mins      █████████████████████░░░░   85.04 % 
-JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Java                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-XML                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Markdown                 17 hrs 25 mins      █████████████████████░░░░   84.54 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Java                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+XML                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Obsidian                 14 hrs 43 mins      █████████████████████░░░░   84.98 % 
-IntelliJ IDEA            1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-VS Code                  1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Neovim                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Obsidian                 17 hrs 20 mins      █████████████████████░░░░   84.09 % 
+IntelliJ IDEA            1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+VS Code                  1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Neovim                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Mac                      17 hrs 7 mins       █████████████████████████   98.77 % 
-Linux                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Mac                      20 hrs 24 mins      █████████████████████████   98.96 % 
+Linux                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 
 
- Last Updated on 13/03/2026 02:31:03 UTC
+ Last Updated on 14/03/2026 02:28:30 UTC
 <!--END_SECTION:waka-->
 
 
