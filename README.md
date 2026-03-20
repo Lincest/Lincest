@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C208%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C210%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -43,25 +43,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 21 mins      ████████████████████░░░░░   79.32 % 
-Java                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Smithy                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Markdown                 9 hrs 16 mins       ██████████████████░░░░░░░   71.11 % 
+Java                     1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Smithy                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-Obsidian                 12 hrs 16 mins      ████████████████████░░░░░   78.78 % 
-IntelliJ IDEA            2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Neovim                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Obsidian                 8 hrs 55 mins       █████████████████░░░░░░░░   68.36 % 
+IntelliJ IDEA            2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+VS Code                  1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Neovim                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 💻 Operating System: 
-Mac                      15 hrs 15 mins      ████████████████████████░   97.95 % 
-Linux                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Mac                      12 hrs 43 mins      ████████████████████████░   97.56 % 
+Linux                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
- Last Updated on 19/03/2026 02:39:43 UTC
+ Last Updated on 20/03/2026 02:31:04 UTC
 <!--END_SECTION:waka-->
 
 
