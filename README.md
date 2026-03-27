@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C215%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C218%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -43,23 +43,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 26 mins       ███████████████████░░░░░░   74.21 % 
-Java                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-INI                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Markdown                 6 hrs 15 mins       █████████████████████░░░░   82.04 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Java                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+INI                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-Obsidian                 4 hrs 15 mins       ███████████████░░░░░░░░░░   58.24 % 
-VS Code                  2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.22 % 
-IntelliJ IDEA            50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Obsidian                 5 hrs 22 mins       ██████████████████░░░░░░░   70.32 % 
+VS Code                  1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+IntelliJ IDEA            41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 
 💻 Operating System: 
-Mac                      7 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2026 02:44:00 UTC
+ Last Updated on 27/03/2026 02:46:09 UTC
 <!--END_SECTION:waka-->
 
 
