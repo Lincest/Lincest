@@ -43,24 +43,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 58 mins       ████████████████░░░░░░░░░   62.13 % 
-Java                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-TypeScript               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-FTL                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Markdown                 4 hrs 38 mins       ██████████████░░░░░░░░░░░   56.63 % 
+Java                     1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+TypeScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 56 mins       ███████████████░░░░░░░░░░   61.72 % 
-IntelliJ IDEA            2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-VS Code                  1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Unknown Editor           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Obsidian                 4 hrs 35 mins       ██████████████░░░░░░░░░░░   56.10 % 
+IntelliJ IDEA            2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+VS Code                  1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Unknown Editor           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Mac                      11 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2026 02:45:11 UTC
+ Last Updated on 04/04/2026 02:35:21 UTC
 <!--END_SECTION:waka-->
 
 
