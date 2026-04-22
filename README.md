@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C255%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C256%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
@@ -43,23 +43,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 58 mins       █████████████████░░░░░░░░   66.71 % 
-JSON                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Java                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Markdown                 6 hrs 30 mins       ██████████████████░░░░░░░   71.80 % 
+JSON                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Java                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 11 mins       ███████████████░░░░░░░░░░   59.27 % 
-VS Code                  3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
-IntelliJ IDEA            38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Obsidian                 4 hrs 51 mins       █████████████░░░░░░░░░░░░   53.56 % 
+VS Code                  3 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.44 % 
+IntelliJ IDEA            38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2026 02:57:54 UTC
+ Last Updated on 22/04/2026 02:55:54 UTC
 <!--END_SECTION:waka-->
 
 
