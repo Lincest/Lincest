@@ -11,9 +11,9 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C256%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C258%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -43,23 +43,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 30 mins       ██████████████████░░░░░░░   71.80 % 
-JSON                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Java                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Markdown                 6 hrs 10 mins       ██████████████████░░░░░░░   71.91 % 
+JSON                     1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Obsidian                 4 hrs 51 mins       █████████████░░░░░░░░░░░░   53.56 % 
-VS Code                  3 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.44 % 
-IntelliJ IDEA            38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Obsidian                 4 hrs 29 mins       █████████████░░░░░░░░░░░░   52.42 % 
+VS Code                  4 hrs 4 mins        ████████████░░░░░░░░░░░░░   47.58 % 
 
 💻 Operating System: 
-Mac                      9 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/04/2026 02:55:54 UTC
+ Last Updated on 23/04/2026 02:58:56 UTC
 <!--END_SECTION:waka-->
 
 
