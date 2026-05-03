@@ -19,21 +19,21 @@
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 113 Contributions in the Year 2026
+> 🏆 120 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 80 Public Repositories 
+> 📜 81 Public Repositories 
  > 
-> 🔑 77 Private Repositories 
+> 🔑 76 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1156 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-🌆 Daytime                1936 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
-🌃 Evening                2196 commits        █████████░░░░░░░░░░░░░░░░   35.41 % 
-🌙 Night                  913 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+🌞 Morning                1158 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+🌆 Daytime                1940 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌃 Evening                2197 commits        █████████░░░░░░░░░░░░░░░░   35.39 % 
+🌙 Night                  913 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 ```
 
 
@@ -43,24 +43,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 10 mins       █████████████████░░░░░░░░   68.20 % 
-JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Python                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Java                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Markdown                 8 hrs 3 mins        ██████████████████░░░░░░░   71.87 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Java                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+XML                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 22 mins       █████████████░░░░░░░░░░░░   53.16 % 
-VS Code                  3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-Unknown Editor           1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-IntelliJ IDEA            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Obsidian                 6 hrs 22 mins       ██████████████░░░░░░░░░░░   56.86 % 
+VS Code                  3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+Unknown Editor           51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+IntelliJ IDEA            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 💻 Operating System: 
-Mac                      11 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/05/2026 03:21:23 UTC
+ Last Updated on 03/05/2026 03:39:21 UTC
 <!--END_SECTION:waka-->
 
 
