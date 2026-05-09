@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C279%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C284%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -43,20 +43,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 26 mins       █████████████████████░░░░   82.01 % 
-XML                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Markdown                 6 hrs 34 mins       ███████████████░░░░░░░░░░   59.14 % 
+Other                    1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Java                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+XML                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🔥 Editors: 
-Obsidian                 5 hrs 26 mins       █████████████████████░░░░   82.01 % 
-VS Code                  1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Obsidian                 6 hrs 35 mins       ███████████████░░░░░░░░░░   59.26 % 
+Unknown Editor           2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+VS Code                  1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+IntelliJ IDEA            1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 
 💻 Operating System: 
-Mac                      6 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/05/2026 03:31:05 UTC
+ Last Updated on 09/05/2026 03:29:12 UTC
 <!--END_SECTION:waka-->
 
 
