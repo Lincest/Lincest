@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C348%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C350%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -27,40 +27,8 @@
  > 
 > 🔑 76 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                1158 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-🌆 Daytime                1940 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
-🌃 Evening                2197 commits        █████████░░░░░░░░░░░░░░░░   35.39 % 
-🌙 Night                  913 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 18 hrs 59 mins      ██████████████████░░░░░░░   73.67 % 
-JSON                     4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-CSV                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-FTL                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-
-🔥 Editors: 
-Claude Code              20 hrs 31 mins      ████████████████████░░░░░   79.59 % 
-Obsidian                 3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-VS Code                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-IntelliJ IDEA            27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-
-💻 Operating System: 
-Mac                      25 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 24/05/2026 04:00:40 UTC
+ Last Updated on 25/05/2026 04:12:26 UTC
 <!--END_SECTION:waka-->
 
 
