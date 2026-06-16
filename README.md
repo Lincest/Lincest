@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C416%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C418%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -43,24 +43,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 17 hrs 22 mins      ███████████████░░░░░░░░░░   59.80 % 
-Java                     4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-TypeScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Markdown                 13 hrs 41 mins      ██████████████░░░░░░░░░░░   55.02 % 
+Java                     5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Other                    2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 57 mins      █████████████████████░░░░   85.93 % 
-Obsidian                 3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Claude Code              20 hrs 57 mins      █████████████████████░░░░   84.28 % 
+Obsidian                 3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+IntelliJ IDEA            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Mac                      29 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      24 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/06/2026 04:50:42 UTC
+ Last Updated on 16/06/2026 04:48:17 UTC
 <!--END_SECTION:waka-->
 
 
