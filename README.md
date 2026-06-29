@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C446%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C447%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -19,7 +19,7 @@
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 130 Contributions in the Year 2026
+> 🏆 131 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,9 +31,9 @@
 
 ```text
 🌞 Morning                1158 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-🌆 Daytime                1946 commits        ████████░░░░░░░░░░░░░░░░░   31.33 % 
-🌃 Evening                2195 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
-🌙 Night                  913 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+🌆 Daytime                1946 commits        ████████░░░░░░░░░░░░░░░░░   31.32 % 
+🌃 Evening                2196 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
+🌙 Night                  913 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 ```
 
 
@@ -43,26 +43,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 19 mins      █████████████████░░░░░░░░   66.22 % 
-XML                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Java                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Markdown                 9 hrs 21 mins       █████████████████░░░░░░░░   67.29 % 
+XML                      2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Java                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 22 mins      █████████████████░░░░░░░░   66.45 % 
-Obsidian                 3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-VS Code                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Codex CLI                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Claude Code              10 hrs 16 mins      ██████████████████░░░░░░░   73.96 % 
+Obsidian                 3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 💻 Operating System: 
-Mac                      15 hrs 29 mins      █████████████████████████   99.26 % 
-Linux                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Mac                      13 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/06/2026 04:12:13 UTC
+ Last Updated on 29/06/2026 04:18:50 UTC
 <!--END_SECTION:waka-->
 
 
