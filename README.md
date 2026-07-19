@@ -43,23 +43,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 40 mins       ██████████████████░░░░░░░   70.00 % 
-HTML                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Markdown                 2 hrs 1 min         █████████████████░░░░░░░░   66.29 % 
+HTML                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.39 % 
-Claude Code              2 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.44 % 
-VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Obsidian                 1 hr 46 mins        ██████████████░░░░░░░░░░░   57.75 % 
+Claude Code              1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   35.33 % 
+VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 💻 Operating System: 
-Mac                      5 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/07/2026 02:48:04 UTC
+ Last Updated on 19/07/2026 03:18:05 UTC
 <!--END_SECTION:waka-->
 
 
