@@ -11,9 +11,9 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C467%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C470%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -43,22 +43,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 7 mins        ████████████████████████░   97.41 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 4 hrs 10 mins       ███████████████░░░░░░░░░░   60.85 % 
+TypeScript               1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+YAML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs 31 mins       █████████████████████░░░░   83.52 % 
-Claude Code              24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-VS Code                  17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Obsidian                 3 hrs 39 mins       █████████████░░░░░░░░░░░░   53.34 % 
+Claude Code              2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.52 % 
+VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Mac                      4 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/07/2026 02:56:09 UTC
+ Last Updated on 23/07/2026 03:17:14 UTC
 <!--END_SECTION:waka-->
 
 
