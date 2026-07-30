@@ -45,47 +45,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-Bash                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-TypeScript               1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Other                    1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Markdown                 1 hr 20 mins        ████████████░░░░░░░░░░░░░   47.12 % 
+Other                    37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+XML                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Smithy                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+FTL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 17 mins       ███████████████░░░░░░░░░░   59.77 % 
-Obsidian                 2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-IntelliJ IDEA            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Obsidian                 1 hr 29 mins        █████████████░░░░░░░░░░░░   52.45 % 
+Claude Code              33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+IntelliJ IDEA            24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+VS Code                  22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 
 💻 Operating System: 
-Mac                      7 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 53 mins (68.0%)
+⏱ AI Coding Time: 56 mins (33.06%)
 
-✍️ 121 lines written by AI, 5 lines written by hand (96.03% AI-written)
+✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
 
-🔤 53,977,803 Input Tokens, 112,793 Output Tokens
+🔤 8,267,354 Input Tokens, 19,089 Output Tokens
 
-💵 $137.93 Estimated AI Cost This Week
+💵 $4.06 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 57 AI Prompts
+🧠 7 AI Sessions, 24 AI Prompts
 
-Opus                     119 lines           █████████████████████████   100.00 % 
 Openai.Gpt               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.03% of written lines came from AI
-📚 Verbose Prompter — average 1,509 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.88% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 2,154 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 02:55:42 UTC
+ Last Updated on 30/07/2026 02:40:31 UTC
 <!--END_SECTION:waka-->
 
 
