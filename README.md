@@ -45,25 +45,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 3 mins        ███████████████████████░░   92.22 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Markdown                 2 hrs 47 mins       ███████████████████████░░   91.56 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Smithy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 55 mins        ███████████████░░░░░░░░░░   58.02 % 
-Claude Code              1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   41.88 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Obsidian                 1 hr 39 mins        ██████████████░░░░░░░░░░░   54.47 % 
+Claude Code              1 hr 23 mins        ███████████░░░░░░░░░░░░░░   45.43 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      3 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (43.69%)
+⏱ AI Coding Time: 1 hr 26 mins (47.4%)
 
 ✍️ 134 lines written by AI, 54 lines written by hand (71.28% AI-written)
 
@@ -83,7 +83,7 @@ Opus                     135 lines           ███████████�
 ```
 
 
- Last Updated on 06/08/2026 02:51:29 UTC
+ Last Updated on 07/08/2026 02:51:19 UTC
 <!--END_SECTION:waka-->
 
 
