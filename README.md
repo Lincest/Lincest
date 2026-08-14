@@ -11,9 +11,9 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C743%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C744%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,48 +45,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 29 mins             ███████████████████░░░░░░   76.67 % 
-Other                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 47 mins             ██████████████░░░░░░░░░░░   54.68 % 
+XML                      21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 Editors: 
-Obsidian                 28 mins             ██████████████████░░░░░░░   72.38 % 
-Claude Code              4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-VS Code                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Codex CLI                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Obsidian                 45 mins             █████████████░░░░░░░░░░░░   52.74 % 
+VS Code                  22 mins             ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+Claude Code              16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Codex CLI                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (28.21%)
+⏱ AI Coding Time: 22 mins (26.32%)
 
-✍️ 410 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 553 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,249,619 Input Tokens, 8,256 Output Tokens
+🔤 3,268,220 Input Tokens, 21,693 Output Tokens
 
-💵 $6.51 Estimated AI Cost This Week
+💵 $16.94 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 7 AI Prompts
+🧠 6 AI Sessions, 11 AI Prompts
 
-Opus                     410 lines           █████████████████████████   100.00 % 
+Opus                     553 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,033 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📚 Verbose Prompter — average 20,605 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 02:15:20 UTC
+ Last Updated on 14/08/2026 02:13:35 UTC
 <!--END_SECTION:waka-->
 
 
