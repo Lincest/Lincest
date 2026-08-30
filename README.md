@@ -45,49 +45,49 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.89 % 
-YAML                     1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   30.67 % 
-Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Markdown                 2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.74 % 
+YAML                     1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.99 % 
-Obsidian                 2 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
-Claude Code              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-IntelliJ IDEA            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+VS Code                  2 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.16 % 
+Obsidian                 2 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.03 % 
+Claude Code              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+IntelliJ IDEA            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (46.39%)
+⏱ AI Coding Time: 2 hrs 48 mins (46.56%)
 
-✍️ 879 lines written by AI, 117 lines written by hand (88.25% AI-written)
+✍️ 964 lines written by AI, 118 lines written by hand (89.09% AI-written)
 
-🔤 2,014,356 Input Tokens, 164,703 Output Tokens
+🔤 1,984,191 Input Tokens, 172,781 Output Tokens
 
-💵 $26.78 Estimated AI Cost This Week
+💵 $25.64 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 26 AI Prompts
+🧠 6 AI Sessions, 25 AI Prompts
 
 GPT                      491 lines           ██████████████░░░░░░░░░░░   57.16 % 
 Codex-Vscode             227 lines           ███████░░░░░░░░░░░░░░░░░░   26.43 % 
 Opus                     141 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.25% of written lines came from AI
-📄 Detailed Prompter — average 970 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 17.29% of changed lines were hand-edited
+🤖 AI-Driven — 89.09% of written lines came from AI
+📄 Detailed Prompter — average 1,004 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 16.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 06:22:40 UTC
+ Last Updated on 30/08/2026 04:32:13 UTC
 <!--END_SECTION:waka-->
 
 
