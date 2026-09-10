@@ -11,11 +11,11 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C757%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C757%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -45,48 +45,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 40 mins       ██████████████████░░░░░░░   70.01 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Markdown                 2 hrs 19 mins       █████████████████░░░░░░░░   66.91 % 
+Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 30 mins       ████████████████░░░░░░░░░   65.97 % 
-VS Code                  32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Claude Code              23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Codex Vscode             21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Obsidian                 2 hrs 2 mins        ███████████████░░░░░░░░░░   58.94 % 
+VS Code                  39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Claude Code              23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Codex Vscode             22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 
 💻 Operating System: 
-Mac                      3 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (32.46%)
+⏱ AI Coding Time: 1 hr 30 mins (43.52%)
 
-✍️ 196 lines written by AI, 845 lines written by hand (18.83% AI-written)
+✍️ 64 lines written by AI, 1,101 lines written by hand (5.49% AI-written)
 
-🔤 309,576 Input Tokens, 36,833 Output Tokens
+🔤 323,943 Input Tokens, 28,889 Output Tokens
 
-💵 $3.16 Estimated AI Cost This Week
+💵 $9.25 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 10 AI Prompts
+🧠 9 AI Sessions, 12 AI Prompts
 
-GPT                      212 lines           █████████████████████████   100.00 % 
+Codex-Vscode             50 lines            ████████████████░░░░░░░░░   62.50 % 
+GPT                      30 lines            █████████░░░░░░░░░░░░░░░░   37.50 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.83% of written lines came from AI
-📝 Concise Prompter — average 43 characters per prompt
+🧑‍💻 Mostly Hands-On — 5.49% of written lines came from AI
+📝 Concise Prompter — average 75 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 84.13% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.52% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 03:53:19 UTC
+ Last Updated on 10/09/2026 03:51:18 UTC
 <!--END_SECTION:waka-->
 
 
