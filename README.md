@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2033%20mins-blue?style=flat)
 
@@ -45,24 +45,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 19 mins        ██████████████████░░░░░░░   70.39 % 
-XML                      33 mins             ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Markdown                 1 hr 20 mins        ███████████████░░░░░░░░░░   58.91 % 
+XML                      55 mins             ██████████░░░░░░░░░░░░░░░   40.69 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 20 mins        ██████████████████░░░░░░░   70.88 % 
-VS Code                  33 mins             ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+Obsidian                 1 hr 21 mins        ███████████████░░░░░░░░░░   59.31 % 
+VS Code                  55 mins             ██████████░░░░░░░░░░░░░░░   40.69 % 
 
 💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.49%)
+⏱ AI Coding Time: 0 secs (0.4%)
 
-✍️ 0 lines written by AI, 1,134 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,355 lines written by hand (0.0% AI-written)
 
 🔤 18,498 Input Tokens, 38 Output Tokens
 
@@ -80,7 +80,7 @@ Openai.Gpt               0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/09/2026 04:03:21 UTC
+ Last Updated on 17/09/2026 04:10:15 UTC
 <!--END_SECTION:waka-->
 
 
