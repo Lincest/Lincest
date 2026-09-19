@@ -11,7 +11,7 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C761%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C761%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2033%20mins-blue?style=flat)
 
@@ -32,10 +32,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1162 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-🌆 Daytime                1920 commits        ████████░░░░░░░░░░░░░░░░░   30.98 % 
-🌃 Evening                2211 commits        █████████░░░░░░░░░░░░░░░░   35.67 % 
-🌙 Night                  905 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+🌞 Morning                1168 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+🌆 Daytime                1944 commits        ████████░░░░░░░░░░░░░░░░░   31.02 % 
+🌃 Evening                2238 commits        █████████░░░░░░░░░░░░░░░░   35.72 % 
+🌙 Night                  916 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 ```
 
 
@@ -45,26 +45,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 33 mins       ███████████████░░░░░░░░░░   60.42 % 
-XML                      1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-JSON                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 2 hrs 37 mins       ███████████████░░░░░░░░░░   58.68 % 
+XML                      1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 33 mins       ███████████████░░░░░░░░░░   60.61 % 
-VS Code                  1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   39.36 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Obsidian                 2 hrs 37 mins       ███████████████░░░░░░░░░░   58.86 % 
+VS Code                  1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   41.11 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      4 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.24%)
+⏱ AI Coding Time: 0 secs (0.23%)
 
-✍️ 0 lines written by AI, 1,891 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,453 lines written by hand (0.0% AI-written)
 
 🔤 53,534 Input Tokens, 111 Output Tokens
 
@@ -83,7 +83,7 @@ Openai.Gpt               0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/09/2026 03:56:21 UTC
+ Last Updated on 19/09/2026 03:53:10 UTC
 <!--END_SECTION:waka-->
 
 
