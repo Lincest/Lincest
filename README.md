@@ -15,7 +15,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -32,10 +32,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1168 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-🌆 Daytime                1944 commits        ████████░░░░░░░░░░░░░░░░░   31.02 % 
-🌃 Evening                2238 commits        █████████░░░░░░░░░░░░░░░░   35.72 % 
-🌙 Night                  916 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+🌞 Morning                1162 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+🌆 Daytime                1920 commits        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+🌃 Evening                2211 commits        █████████░░░░░░░░░░░░░░░░   35.67 % 
+🌙 Night                  905 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 ```
 
 
@@ -45,27 +45,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 34 mins        ██████████████░░░░░░░░░░░   54.59 % 
-JSON                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-XML                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Markdown                 1 hr 33 mins        ██████████████░░░░░░░░░░░   57.12 % 
+JSON                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+XML                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 39 mins        ██████████████░░░░░░░░░░░   57.44 % 
-VS Code                  1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   37.60 % 
-Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Obsidian                 1 hr 38 mins        ███████████████░░░░░░░░░░   60.15 % 
+VS Code                  56 mins             █████████░░░░░░░░░░░░░░░░   34.58 % 
+Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-Mac                      2 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (7.85%)
+⏱ AI Coding Time: 13 mins (8.33%)
 
-✍️ 1 lines written by AI, 1,099 lines written by hand (0.09% AI-written)
+✍️ 1 lines written by AI, 1,098 lines written by hand (0.09% AI-written)
 
 🔤 101,317 Input Tokens, 3,065 Output Tokens
 
@@ -83,7 +83,7 @@ Opus                     1 lines             ███████████�
 ```
 
 
- Last Updated on 23/09/2026 04:01:18 UTC
+ Last Updated on 24/09/2026 03:55:27 UTC
 <!--END_SECTION:waka-->
 
 
