@@ -45,26 +45,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 43 mins             ████████████████░░░░░░░░░   62.23 % 
-XML                      12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Markdown                 32 mins             ██████████████████░░░░░░░   70.23 % 
+Bash                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 
 🔥 Editors: 
-Obsidian                 48 mins             █████████████████░░░░░░░░   69.42 % 
-VS Code                  12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Claude Code              8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Obsidian                 37 mins             ████████████████████░░░░░   81.25 % 
+Claude Code              8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 
 💻 Operating System: 
-Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
+Mac                      45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (19.43%)
+⏱ AI Coding Time: 13 mins (29.77%)
 
-✍️ 1 lines written by AI, 568 lines written by hand (0.18% AI-written)
+✍️ 1 lines written by AI, 6 lines written by hand (14.29% AI-written)
 
 🔤 66,281 Input Tokens, 2,992 Output Tokens
 
@@ -75,14 +73,14 @@ Mac                      1 hr 9 mins         ███████████�
 Opus                     1 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.18% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 14.29% of written lines came from AI
 📄 Detailed Prompter — average 810 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.82% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 85.71% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 04:10:11 UTC
+ Last Updated on 26/09/2026 04:15:09 UTC
 <!--END_SECTION:waka-->
 
 
