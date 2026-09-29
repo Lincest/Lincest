@@ -45,22 +45,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 32 mins             ██████████████████░░░░░░░   70.23 % 
-Bash                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Markdown                 32 mins             ████████████████████░░░░░   78.92 % 
+Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 🔥 Editors: 
-Obsidian                 37 mins             ████████████████████░░░░░   81.25 % 
-Claude Code              8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Obsidian                 32 mins             ████████████████████░░░░░   78.92 % 
+Claude Code              8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
 
 💻 Operating System: 
-Mac                      45 mins             █████████████████████████   100.00 % 
+Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (29.77%)
+⏱ AI Coding Time: 8 mins (21.08%)
 
 ✍️ 1 lines written by AI, 6 lines written by hand (14.29% AI-written)
 
@@ -68,19 +68,19 @@ Mac                      45 mins             ███████████�
 
 💵 $0.52 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 Opus                     1 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 14.29% of written lines came from AI
-📄 Detailed Prompter — average 810 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 153 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 85.71% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 04:30:42 UTC
+ Last Updated on 29/09/2026 05:00:54 UTC
 <!--END_SECTION:waka-->
 
 
