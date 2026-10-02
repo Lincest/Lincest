@@ -45,44 +45,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 45 mins             ████████████████░░░░░░░░░   63.70 % 
-Java                     20 mins             ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Markdown                 23 mins             ████████████░░░░░░░░░░░░░   46.41 % 
+Java                     21 mins             ███████████░░░░░░░░░░░░░░   43.21 % 
+Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 brazil-config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Obsidian                 44 mins             ████████████████░░░░░░░░░   63.23 % 
-IntelliJ IDEA            20 mins             ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-Kiro                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Obsidian                 22 mins             ███████████░░░░░░░░░░░░░░   45.73 % 
+IntelliJ IDEA            21 mins             ███████████░░░░░░░░░░░░░░   43.23 % 
+Kiro                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+Mac                      49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (7.76%)
+⏱ AI Coding Time: 5 mins (11.11%)
 
-✍️ 0 lines written by AI, 31 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 25 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 7 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 108,242 characters per prompt
+📚 Verbose Prompter — average 94,215 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 04:59:27 UTC
+ Last Updated on 02/10/2026 04:49:50 UTC
 <!--END_SECTION:waka-->
 
 
