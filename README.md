@@ -45,44 +45,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 23 mins             ████████████░░░░░░░░░░░░░   46.41 % 
-Java                     21 mins             ███████████░░░░░░░░░░░░░░   43.21 % 
-Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-brazil-config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 10 mins             █████████████████████████   98.82 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+brazil-config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Obsidian                 22 mins             ███████████░░░░░░░░░░░░░░   45.73 % 
-IntelliJ IDEA            21 mins             ███████████░░░░░░░░░░░░░░   43.23 % 
-Kiro                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Obsidian                 10 mins             ████████████████████████░   95.63 % 
+Kiro                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (11.11%)
+⏱ AI Coding Time: 0 secs (3.54%)
 
-✍️ 0 lines written by AI, 25 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 16 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 94,215 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 32,946 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 05:36:36 UTC
+ Last Updated on 07/10/2026 05:06:30 UTC
 <!--END_SECTION:waka-->
 
 
