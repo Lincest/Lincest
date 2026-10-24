@@ -45,44 +45,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 45 mins        ███████████████████░░░░░░   75.55 % 
-XML                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    1 hr 5 mins         ██████████████░░░░░░░░░░░   56.23 % 
+XML                      31 mins             ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+Java                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-Kiro                     1 hr 30 mins        ████████████████░░░░░░░░░   64.53 % 
-Obsidian                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-VS Code                  22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Kiro                     1 hr 5 mins         ██████████████░░░░░░░░░░░   56.20 % 
+VS Code                  32 mins             ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+IntelliJ IDEA            12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Obsidian                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 💻 Operating System: 
-Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 46 mins (75.62%)
+⏱ AI Coding Time: 1 hr 5 mins (56.31%)
 
-✍️ 0 lines written by AI, 1,236 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,237 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 46 AI Prompts
+🧠 6 AI Sessions, 33 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 39,139 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 21,633 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/10/2026 04:00:58 UTC
+ Last Updated on 24/10/2026 03:55:08 UTC
 <!--END_SECTION:waka-->
 
 
